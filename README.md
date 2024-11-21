@@ -9,3 +9,7 @@ anything else than educational purposes! Do not implement in production!
 
 - This project is a modified version of my own website that was
  created for a different course. 
+
+Instructions for installing and running:
+
+(coming up)
